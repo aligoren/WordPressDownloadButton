@@ -17,7 +17,7 @@ Supported colors: blue, crimson, red, wellread, green, aqua, silver, gray, orang
 
 Very easy using:
 
-`[download link="http://johndoe.com/file.zip" color="crimson"]`
+```[download link="http://johndoe.com/file.zip" color="crimson"]```
 
 == Installation ==
 Install and activate :)
