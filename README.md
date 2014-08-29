@@ -20,7 +20,7 @@ WordPress Download Button
 
 **License URI**: http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
 
-Wordpress Download Buttons Plug-in
+###Wordpress Download Buttons Plug-in
 
 **Description**
 
