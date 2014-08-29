@@ -1,7 +1,7 @@
 WordPress Download Button
 =======================
 
-[![Build Status](https://api.travis-ci.org/aligoren/WordPressDownloadButton.png)](https://travis-ci.org/aligoren/WordPressDownloadButton)
+[![Build Status](https://travis-ci.org/aligoren/WordPressDownloadButton.svg)](https://travis-ci.org/aligoren/WordPressDownloadButton)
 
 **Download**: [Download Link on Github] (https://github.com/aligoren/WordPressDownloadButton/archive/master.zip) --- :vs: ---
 [Download Link on Yandex.Disk Cloud] (https://yadi.sk/d/8qb-FEb-aJJuM)
