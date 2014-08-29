@@ -1,6 +1,9 @@
 WordPress Download Button
 =======================
 
+**Download**: [Download Link on Github] (https://github.com/aligoren/WordPressDownloadButton/archive/master.zip) --- :vs: ---
+[Download Link on Yandex.Disk Cloud] (https://yadi.sk/d/8qb-FEb-aJJuM)
+
 **Contributors**: aligoren
 
 **Tags**: button, download, link, buttons
