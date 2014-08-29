@@ -1,13 +1,20 @@
-WordPressDownloadButton
+WordPress Download Button
 =======================
 
 **Contributors**: aligoren
-**Tag**s: button, download, link, buttons
+
+**Tags**: button, download, link, buttons
+
 **Donate link**: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=goren.ali@yandex.com
+
 **Requires at least**: 3.5.1
+
 **Tested up to**: 3.9.2
+
 **Stable tag**: trunk
+
 **License**: GPLv2
+
 **License URI**: http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
 
 Wordpress Download Buttons Plug-in
@@ -26,7 +33,8 @@ Supported Language: **blue, crimson, red, wellread, green, aqua, silver, gray, o
 
 `[download link="http://johndoe.com/file.zip" color="crimson" target="self" alt="this is alt" title="this is title"]`
 
-== Frequently Asked Questions ==
+**Frequently Asked Questions**
+
 If you want to help?
 
 Install plug-in after check Download Button Help panel.
